@@ -1,2 +1,2 @@
 # node-stuff
-Project files for learning Node.js
+Personal project files for learning Node.js
